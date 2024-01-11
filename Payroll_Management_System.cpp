@@ -27,7 +27,7 @@ emp e[100];
 
 void empdata(){
 	int user=0;
-
+	//hi
 	cout<<"How many employees data do you want to enter??"<<endl;
 	cin>>user;
 
